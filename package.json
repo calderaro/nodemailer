@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer-notes",
+  "version": "1.0.0",
+  "description": "nodemailtes testing notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemailer",
+    "notes",
+    "testing",
+    "notes",
+    "node",
+    "api"
+  ],
+  "author": "Angel Calderaro calderaro94@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "nodemailer": "^4.6.8"
+  }
+}
